@@ -6,9 +6,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+End-to-End+AI+Engineer;🧠+ML+Innovation+%2B+Full-Stack+Mastery;⚡+Transforming+Data+into+Intelligence;🌟+Building+the+Future+with+AI)](https://git.io/typing-svg)
   
-  <img src="https://komarev.com/ghpvc/?username=aashiqmustak&label=Profile%20Views&color=00d9ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aashiqmustak?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-00d9ff?style=for-the-badge&labelColor=0d1117" alt="Focus" />
+
   
 </div>
 
