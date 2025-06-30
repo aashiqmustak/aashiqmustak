@@ -29,36 +29,7 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px">
 
-```python
-#!/usr/bin/env python3
 
-class AIEngineer:
-    def __init__(self):
-        self.name = "Mohammed Aashiq"
-        self.role = "End-to-End AI Engineer"
-        self.company = "Building Whisprnet.ai"
-        self.base = "Chennai, India"
-        
-    def current_work(self):
-        return {
-            "🔭 Working_on": ["Whisprnet.ai", "Advanced AI Systems"],
-            "🌱 Learning": ["Agentic AI", "LLM Architectures", "MLOps"],
-            "🤝 Collaborate_on": "AI/ML Projects & Full-Stack Apps",
-            "🎯 Goals_2024": "Deploy 5+ AI Solutions in Production",
-            "⚡ Fun_fact": "I debug code faster than I debug my life 😄"
-        }
-    
-    def tech_stack(self):
-        return {
-            "AI_ML": ["Python", "TensorFlow", "PyTorch", "scikit-learn"],
-            "Backend": ["Django", "Flask", "Node.js", "Express"],
-            "Cloud": ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
-            "Databases": ["MongoDB", "PostgreSQL", "MySQL"],
-            "Tools": ["Git", "Linux", "Postman", "Jupyter"]
-        }
-
-me = AIEngineer()
-```
 
 <br/>
 
