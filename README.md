@@ -25,9 +25,40 @@
 
 <br/>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **About Me**
+
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px">
 
+```python
+#!/usr/bin/env python3
 
+class AIEngineer:
+    def __init__(self):
+        self.name = "Mohammed Aashiq"
+        self.role = "End-to-End AI Engineer"
+        self.company = "Building Whisprnet.ai"
+        self.base = "Chennai, India"
+        
+    def current_work(self):
+        return {
+            "🔭 Working_on": ["Whisprnet.ai", "Advanced AI Systems"],
+            "🌱 Learning": ["Agentic AI", "LLM Architectures", "MLOps"],
+            "🤝 Collaborate_on": "AI/ML Projects & Full-Stack Apps",
+            "🎯 Goals_2024": "Deploy 5+ AI Solutions in Production",
+            "⚡ Fun_fact": "I debug code faster than I debug my life 😄"
+        }
+    
+    def tech_stack(self):
+        return {
+            "AI_ML": ["Python", "TensorFlow", "PyTorch", "scikit-learn"],
+            "Backend": ["Django", "Flask", "Node.js", "Express"],
+            "Cloud": ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
+            "Databases": ["MongoDB", "PostgreSQL", "MySQL"],
+            "Tools": ["Git", "Linux", "Postman", "Jupyter"]
+        }
+
+me = AIEngineer()
+```
 
 <br/>
 
@@ -122,7 +153,21 @@
 <div align="center">
 
 ### 🧠 **LeetCode Journey**
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aashiqmustak?theme=nord&font=source_code_pro&ext=contest&width=500)](https://leetcode.com/u/aashiqmustak/)
+<div align="center">
+  <a href="https://leetcode.com/u/aashiqmustak/">
+    <img src="https://leetcard.jacoblin.cool/aashiqmustak?theme=dark&font=source_code_pro&ext=heatmap&width=500" alt="LeetCode Stats with Heatmap"/>
+  </a>
+</div>
+
+### 🔥 **LeetCode Heatmap**
+<div align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/aashiqmustak?theme=dark" alt="LeetCode Heatmap" width="600"/>
+</div>
+
+### 📈 **Coding Activity**
+<div align="center">
+  <img src="https://leetcode.com/aashiqmustak/calendar/" alt="LeetCode Calendar" width="600"/>
+</div>
 
 ### 📊 **Coding Stats**
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aashiqmustak&theme=github_dark&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="WakaTime Stats" width="500"/>
