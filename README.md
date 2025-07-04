@@ -125,7 +125,7 @@
   </a>
 </div>
 
-### 🏆 **Unstop (Formerly Dare2Compete)**
+### 🏆 **Unstop**
 <div align="center">
   <a href="https://unstop.com/u/aashimus7284">
     <img src="https://img.shields.io/badge/Unstop-Profile-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" alt="Unstop Profile"/>
