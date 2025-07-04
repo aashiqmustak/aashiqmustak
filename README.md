@@ -134,34 +134,34 @@
 
 <!-- Custom Unstop Activity Heatmap -->
 <div align="center">
-  <h4>📊 Unstop Activity Heatmap</h4>
-  <img src="https://img.shields.io/badge/🔥_Contests_Participated-25+-FF6B35?style=for-the-badge&labelColor=2D3748" alt="Contests"/>
-  <img src="https://img.shields.io/badge/🏅_Hackathons-15+-00D9FF?style=for-the-badge&labelColor=2D3748" alt="Hackathons"/>
-  <img src="https://img.shields.io/badge/💡_Ideas_Submitted-30+-4FD1C7?style=for-the-badge&labelColor=2D3748" alt="Ideas"/>
-  <img src="https://img.shields.io/badge/🎯_Competitions-40+-F093FB?style=for-the-badge&labelColor=2D3748" alt="Competitions"/>
+  <h4>📊 Unstop Activity Stats</h4>
+  <img src="https://img.shields.io/badge/🔥_Contests_Participated-12+-FF6B35?style=for-the-badge&labelColor=2D3748" alt="Contests"/>
+  <img src="https://img.shields.io/badge/🏅_Hackathons-8+-00D9FF?style=for-the-badge&labelColor=2D3748" alt="Hackathons"/>
+  <img src="https://img.shields.io/badge/💡_Ideas_Submitted-15+-4FD1C7?style=for-the-badge&labelColor=2D3748" alt="Ideas"/>
+  <img src="https://img.shields.io/badge/🎯_Active_Since-2024-F093FB?style=for-the-badge&labelColor=2D3748" alt="Active Since"/>
 </div>
 
 <!-- Activity Calendar Style Display -->
 <div align="center">
-  <h4>📈 2024 Unstop Activity Calendar</h4>
+  <h4>📈 2024-2025 Unstop Activity Timeline</h4>
   <table style="border-collapse: collapse; margin: 0 auto;">
     <tr>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Jan-🟢-success?style=flat-square&labelColor=2D3748" alt="Jan"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Feb-🟢-success?style=flat-square&labelColor=2D3748" alt="Feb"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Mar-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Mar"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Apr-🟢-success?style=flat-square&labelColor=2D3748" alt="Apr"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Aug_2024-🟢-success?style=flat-square&labelColor=2D3748" alt="Aug 2024"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Sep_2024-🟢-success?style=flat-square&labelColor=2D3748" alt="Sep 2024"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Oct_2024-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Oct 2024"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Nov_2024-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Nov 2024"/></td>
     </tr>
     <tr>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/May-🟢-success?style=flat-square&labelColor=2D3748" alt="May"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Jun-🟢-success?style=flat-square&labelColor=2D3748" alt="Jun"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Jul-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Jul"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Aug-🟢-success?style=flat-square&labelColor=2D3748" alt="Aug"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Dec_2024-🟢-success?style=flat-square&labelColor=2D3748" alt="Dec 2024"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Jan_2025-🟢-success?style=flat-square&labelColor=2D3748" alt="Jan 2025"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Feb_2025-🟢-success?style=flat-square&labelColor=2D3748" alt="Feb 2025"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Mar_2025-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Mar 2025"/></td>
     </tr>
     <tr>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Sep-🟢-success?style=flat-square&labelColor=2D3748" alt="Sep"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Oct-🟢-success?style=flat-square&labelColor=2D3748" alt="Oct"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Nov-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Nov"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Dec-🟢-success?style=flat-square&labelColor=2D3748" alt="Dec"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Apr_2025-🔴-red?style=flat-square&labelColor=2D3748" alt="Apr 2025"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/May_2025-🟡-yellow?style=flat-square&labelColor=2D3748" alt="May 2025"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Jun_2025-🟢-success?style=flat-square&labelColor=2D3748" alt="Jun 2025"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Jul_2025-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Jul 2025"/></td>
     </tr>
   </table>
   <p><small>🟢 High Activity • 🟡 Medium Activity • 🔴 Low Activity</small></p>
