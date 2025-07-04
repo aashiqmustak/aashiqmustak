@@ -132,39 +132,150 @@
   </a>
 </div>
 
-<!-- Custom Unstop Activity Heatmap -->
+<!-- Unstop Activity Heatmap (GitHub-style) -->
 <div align="center">
-  <h4>📊 Unstop Activity Stats</h4>
-  <img src="https://img.shields.io/badge/🔥_Contests_Participated-12+-FF6B35?style=for-the-badge&labelColor=2D3748" alt="Contests"/>
-  <img src="https://img.shields.io/badge/🏅_Hackathons-8+-00D9FF?style=for-the-badge&labelColor=2D3748" alt="Hackathons"/>
-  <img src="https://img.shields.io/badge/💡_Ideas_Submitted-15+-4FD1C7?style=for-the-badge&labelColor=2D3748" alt="Ideas"/>
-  <img src="https://img.shields.io/badge/🎯_Active_Since-2024-F093FB?style=for-the-badge&labelColor=2D3748" alt="Active Since"/>
-</div>
+  <h4>📊 Unstop Activity Heatmap</h4>
+  
+  <!-- Aug 2024 -->
+  <div style="display: inline-block; margin: 5px; text-align: center;">
+    <p style="font-size: 12px; margin: 0; color: #8b949e;">Aug, 2024</p>
+    <div style="display: inline-block;">
+      <div style="display: flex; flex-direction: column; gap: 2px;">
+        <div style="display: flex; gap: 2px;">
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+        </div>
+        <div style="display: flex; gap: 2px;">
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
 
-<!-- Activity Calendar Style Display -->
-<div align="center">
-  <h4>📈 2024-2025 Unstop Activity Timeline</h4>
-  <table style="border-collapse: collapse; margin: 0 auto;">
-    <tr>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Aug_2024-🟢-success?style=flat-square&labelColor=2D3748" alt="Aug 2024"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Sep_2024-🟢-success?style=flat-square&labelColor=2D3748" alt="Sep 2024"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Oct_2024-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Oct 2024"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Nov_2024-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Nov 2024"/></td>
-    </tr>
-    <tr>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Dec_2024-🟢-success?style=flat-square&labelColor=2D3748" alt="Dec 2024"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Jan_2025-🟢-success?style=flat-square&labelColor=2D3748" alt="Jan 2025"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Feb_2025-🟢-success?style=flat-square&labelColor=2D3748" alt="Feb 2025"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Mar_2025-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Mar 2025"/></td>
-    </tr>
-    <tr>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Apr_2025-🔴-red?style=flat-square&labelColor=2D3748" alt="Apr 2025"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/May_2025-🟡-yellow?style=flat-square&labelColor=2D3748" alt="May 2025"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Jun_2025-🟢-success?style=flat-square&labelColor=2D3748" alt="Jun 2025"/></td>
-      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Jul_2025-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Jul 2025"/></td>
-    </tr>
-  </table>
-  <p><small>🟢 High Activity • 🟡 Medium Activity • 🔴 Low Activity</small></p>
+  <!-- Sep 2024 -->
+  <div style="display: inline-block; margin: 5px; text-align: center;">
+    <p style="font-size: 12px; margin: 0; color: #8b949e;">Sep, 2024</p>
+    <div style="display: inline-block;">
+      <div style="display: flex; flex-direction: column; gap: 2px;">
+        <div style="display: flex; gap: 2px;">
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+        </div>
+        <div style="display: flex; gap: 2px;">
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Oct 2024 -->
+  <div style="display: inline-block; margin: 5px; text-align: center;">
+    <p style="font-size: 12px; margin: 0; color: #8b949e;">Oct, 2024</p>
+    <div style="display: inline-block;">
+      <div style="display: flex; flex-direction: column; gap: 2px;">
+        <div style="display: flex; gap: 2px;">
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+        </div>
+        <div style="display: flex; gap: 2px;">
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Nov 2024 -->
+  <div style="display: inline-block; margin: 5px; text-align: center;">
+    <p style="font-size: 12px; margin: 0; color: #8b949e;">Nov, 2024</p>
+    <div style="display: inline-block;">
+      <div style="display: flex; flex-direction: column; gap: 2px;">
+        <div style="display: flex; gap: 2px;">
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+        </div>
+        <div style="display: flex; gap: 2px;">
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Dec 2024 -->
+  <div style="display: inline-block; margin: 5px; text-align: center;">
+    <p style="font-size: 12px; margin: 0; color: #8b949e;">Dec, 2024</p>
+    <div style="display: inline-block;">
+      <div style="display: flex; flex-direction: column; gap: 2px;">
+        <div style="display: flex; gap: 2px;">
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+        </div>
+        <div style="display: flex; gap: 2px;">
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Jan 2025 -->
+  <div style="display: inline-block; margin: 5px; text-align: center;">
+    <p style="font-size: 12px; margin: 0; color: #8b949e;">Jan, 2025</p>
+    <div style="display: inline-block;">
+      <div style="display: flex; flex-direction: column; gap: 2px;">
+        <div style="display: flex; gap: 2px;">
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+        </div>
+        <div style="display: flex; gap: 2px;">
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #9be9a8; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #40c463; border-radius: 2px;"></div>
+          <div style="width: 12px; height: 12px; background: #ebedf0; border-radius: 2px;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <br/>
+  <div style="margin-top: 10px;">
+    <span style="font-size: 11px; color: #8b949e;">Less</span>
+    <span style="display: inline-block; width: 10px; height: 10px; background: #ebedf0; border-radius: 2px; margin: 0 2px;"></span>
+    <span style="display: inline-block; width: 10px; height: 10px; background: #9be9a8; border-radius: 2px; margin: 0 2px;"></span>
+    <span style="display: inline-block; width: 10px; height: 10px; background: #40c463; border-radius: 2px; margin: 0 2px;"></span>
+    <span style="display: inline-block; width: 10px; height: 10px; background: #30a14e; border-radius: 2px; margin: 0 2px;"></span>
+    <span style="display: inline-block; width: 10px; height: 10px; background: #216e39; border-radius: 2px; margin: 0 2px;"></span>
+    <span style="font-size: 11px; color: #8b949e;">More</span>
+  </div>
+  
+  <p style="margin-top: 10px; font-size: 12px; color: #8b949e;">
+    <strong>Activity:</strong> 🏆 Contests • 🚀 Hackathons • 💡 Ideas • 🎯 Challenges
+  </p>
 </div>
 
 </div>
