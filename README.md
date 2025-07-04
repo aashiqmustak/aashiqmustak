@@ -125,6 +125,49 @@
   </a>
 </div>
 
+### 🏆 **Unstop (Formerly Dare2Compete)**
+<div align="center">
+  <a href="https://unstop.com/u/aashimus7284">
+    <img src="https://img.shields.io/badge/Unstop-Profile-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" alt="Unstop Profile"/>
+  </a>
+</div>
+
+<!-- Custom Unstop Activity Heatmap -->
+<div align="center">
+  <h4>📊 Unstop Activity Heatmap</h4>
+  <img src="https://img.shields.io/badge/🔥_Contests_Participated-25+-FF6B35?style=for-the-badge&labelColor=2D3748" alt="Contests"/>
+  <img src="https://img.shields.io/badge/🏅_Hackathons-15+-00D9FF?style=for-the-badge&labelColor=2D3748" alt="Hackathons"/>
+  <img src="https://img.shields.io/badge/💡_Ideas_Submitted-30+-4FD1C7?style=for-the-badge&labelColor=2D3748" alt="Ideas"/>
+  <img src="https://img.shields.io/badge/🎯_Competitions-40+-F093FB?style=for-the-badge&labelColor=2D3748" alt="Competitions"/>
+</div>
+
+<!-- Activity Calendar Style Display -->
+<div align="center">
+  <h4>📈 2024 Unstop Activity Calendar</h4>
+  <table style="border-collapse: collapse; margin: 0 auto;">
+    <tr>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Jan-🟢-success?style=flat-square&labelColor=2D3748" alt="Jan"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Feb-🟢-success?style=flat-square&labelColor=2D3748" alt="Feb"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Mar-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Mar"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Apr-🟢-success?style=flat-square&labelColor=2D3748" alt="Apr"/></td>
+    </tr>
+    <tr>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/May-🟢-success?style=flat-square&labelColor=2D3748" alt="May"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Jun-🟢-success?style=flat-square&labelColor=2D3748" alt="Jun"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Jul-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Jul"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Aug-🟢-success?style=flat-square&labelColor=2D3748" alt="Aug"/></td>
+    </tr>
+    <tr>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Sep-🟢-success?style=flat-square&labelColor=2D3748" alt="Sep"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Oct-🟢-success?style=flat-square&labelColor=2D3748" alt="Oct"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Nov-🟡-yellow?style=flat-square&labelColor=2D3748" alt="Nov"/></td>
+      <td style="padding: 2px;"><img src="https://img.shields.io/badge/Dec-🟢-success?style=flat-square&labelColor=2D3748" alt="Dec"/></td>
+    </tr>
+  </table>
+  <p><small>🟢 High Activity • 🟡 Medium Activity • 🔴 Low Activity</small></p>
+</div>
+
+</div>
 
 <br/>
 
@@ -133,7 +176,7 @@
 <div align="center">
   
   <a href="https://github.com/aashiqmustak/mistral-intent-test">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aashiqmustak&repo=mistral-intent-test&theme=github_dark&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Whisprnet.ai"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aashiqmustak&repo=mistral-intent-test&theme=github_dark&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Mistral Intent Test"/>
   </a>
   
   <a href="https://github.com/aashiqmustak">
@@ -155,6 +198,9 @@
 </a>
 <a href="https://leetcode.com/u/aashiqmustak/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://unstop.com/u/aashimus7284" target="_blank">
+  <img src="https://img.shields.io/badge/Unstop-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" alt="Unstop"/>
 </a>
 <a href="https://instagram.com/xmdaashiq" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
