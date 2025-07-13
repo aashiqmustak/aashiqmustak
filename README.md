@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Aashiq&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-<div align="center">
+<div align="center"> 
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+End-to-End+AI+Engineer;⚡+Transforming+Data+into+Intelligence)](https://git.io/typing-svg)
   
