@@ -213,7 +213,9 @@
 </a>
 
 ### 📬 **Want to collaborate?**
-<img src="https://img.shields.io/badge/Open%20for-Collaborations-00d9ff?style=for-the-badge&labelColor=0d1117" alt="Open for Collaborations"/>
+<a href="https://aashiqmustak.netlify.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Open%20for-Collaborations-00d9ff?style=for-the-badge&labelColor=0d1117" alt="Open for Collaborations"/>
+</a>
 
 </div>
 
