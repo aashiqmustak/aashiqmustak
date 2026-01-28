@@ -12,9 +12,7 @@
 <!-- Social Badges: Start -->
 <p align="center">
 
-<a href="https://github.com/aashiqmustak" align="center">
-  <img alt="GitHub followers" align="center" src="https://img.shields.io/github/followers/pythonhubdev?logo=github&style=for-the-badge">
-</a>
+
 <a href="https://linkedin.com/in/mdaashiq" align="center">
   <img alt="LinkedIn Follow" align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
