@@ -18,8 +18,8 @@
 <a href="https://linkedin.com/in/mdaashiq" align="center">
   <img alt="LinkedIn Follow" align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.fiverr.com/pythonhub" align="center">
-  <img alt="LinkedIn Follow" align="center" src="https://img.shields.io/badge/fiverr-%1DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white">
+<a href="https://www.fiverr.com/aashiqmustak" align="center">
+  <img alt="Fiverr Follow" align="center" src="https://img.shields.io/badge/fiverr-%1DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white">
 </a>
 </p>
 <!-- Social Badges: End -->
