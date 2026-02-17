@@ -37,6 +37,6 @@
   - Fuel: ☕️ Coffee + Harrys Mams
   - Recharge: Mom + BGMI
 
-  🚀 Let's Build the AI-Powered Future
+  🚀 Cooking big, in the name of Zarnex.ai
 ```
 
