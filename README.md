@@ -34,8 +34,8 @@
 
 💼 What I'm Up To:
   - AI/ML: Experimenting with Machine Learning , Agents , LLMS, OSS models
-  - Fuel: ☕️ Cold brew + Harrys Bhai
-  - Recharge: Mom + story gaming
+  - Fuel: ☕️ Coffee + Harrys Mams
+  - Recharge: Mom + BGMI
 
   🚀 Let's Build the AI-Powered Future
 ```
