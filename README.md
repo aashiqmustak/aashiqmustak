@@ -35,7 +35,7 @@
 💼 What I'm Up To:
   - AI/ML: Experimenting with Machine Learning , Agents , LLMS, OSS models
   - Fuel: ☕️ Coffee + Harrys Mams
-  - Recharge: Mom + BGMI
+  - Recharge: Mom + Podcasts
 
   🚀 Cooking big, in the name of Zarnex.ai
 ```
