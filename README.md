@@ -26,7 +26,7 @@
 
 ```yaml
 👋🏻 Hey, I'm Mohammed Aashiq
-  Agent Orchestration | Software Developer
+  Agent Orchestrator | Software Developer
 
   I architect full-stack solutions with Python, and cutting-edge frameworks like Litestar & FastAPI 🪄.
   Currently diving deep into agent orchestrations  and building AI-powered applications.
