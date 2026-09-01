@@ -33,7 +33,7 @@
   Obsessed with clean code, production systems, and bridging the gap between ideas and execution.
 
 💼 What I'm Up To:
-  - AI/ML: Experimenting with Machine Learning , Agents , LLMS, OSS models
+  - AI/ML: Experimenting with Stats,Neural Networks , Agents , LLMS, OSS models
   - Fuel: ☕️ Coffee + Diet Coke
   - Recharge: Podcasts
 
