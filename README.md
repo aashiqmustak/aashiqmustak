@@ -28,8 +28,8 @@
 👋🏻 Hey, I'm Mohammed Aashiq
   Agent Orchestrator | Software Developer
 
-  I architect full-stack solutions with Python, and cutting-edge frameworks like Litestar 🪄.
-  Currently diving deep into agent orchestrations  and building AI-powered applications.
+  I  do  full-stack solutions with Python, and cutting-edge frameworks like Litestar .
+  Diving deep into agent orchestrations  and building AI-powered applications.
   Obsessed with clean code, production systems, and bridging the gap between ideas and execution.
 
 💼 What I'm Up To:
